@@ -4,3 +4,6 @@ These are the timelines created for the last team project during Spring 2020:
 
 - [Women in computing](women-computing) `sample`
 <!-- - Group 0: [Timeline Title](group0) `empty` -->
+- Group D: [History of the Pintxos](groupD)
+- Group E: [Basketball](GroupE)
+- Group 2: [The History of Climate Change](group2)
